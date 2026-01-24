@@ -122,10 +122,11 @@ ehthumbs.db
 Thumbs.db
 
 # Data and models (uncomment if you want to ignore large data files)
-# data/
+data/
 # models/
 
 # Logs
 *.log
 
 enroll/
+book/
