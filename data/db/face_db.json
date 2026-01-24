@@ -1,0 +1,9 @@
+{
+  "updated_at": "2026-01-24 15:13:40",
+  "dim": 512,
+  "identities": [
+    "dianah"
+  ],
+  "samples_used": 20,
+  "note": "Mean L2-normalized ArcFace embedding. Use cosine similarity."
+}
